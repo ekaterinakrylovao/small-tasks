@@ -1,4 +1,6 @@
-"""Тесты для модуля video_utils."""
+"""
+Тесты для модуля video_utils.
+"""
 
 import pytest
 from module_1.video_duration.video_utils import VideoDurationConverter
